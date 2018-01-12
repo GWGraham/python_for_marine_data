@@ -8,11 +8,11 @@ Introductory course for on-ramping new students to fundamental programming skill
 ## Syllabus
 
 
-1. [source/0_install.md](Install and Setup)
+1. [Install and Setup](source/0_install.md)
 
-1. [source/1_shell_n_notebook.md](Intro to shell & Juypter notebook)
+1. [Intro to shell & Juypter notebook](source/1_shell_n_notebook.md)
 
-1. [source/2_general_purpose_python.md](General purpose python)
+1. [General purpose python](source/2_general_purpose_python.md)
 
 1. Data Analysis
 	
