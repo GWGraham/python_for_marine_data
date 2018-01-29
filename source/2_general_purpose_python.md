@@ -9,11 +9,11 @@ Working through pages 1 - 61 and 66 - 76 will cover the basics and then there's 
 ### Other useful intro/overview/quickstart resources
 1. [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 1. [Coursera: Python for Data Analysis](https://www.coursera.org/learn/python-data-analysis)
-1. [Coursera: Plotting in Python] (https://www.coursera.org/learn/python-plotting)
+1. [Coursera: Plotting in Python](https://www.coursera.org/learn/python-plotting)
 1. Chapters 1 - 9 for the [Code Academy Learn Python](https://www.codecademy.com/learn/learn-python) course.
 
 ### Deeper resources I'd recommend:
-1. JVDP's [The Pyhton Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
+1. JVDP's [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
 1. Katy Huff and Anthony Scopatz's [Effective Computation in Physics](http://physics.codes/). 
 1. Wes McKinney's [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (specific to the Pandas library, but has good intro material to general python and the Numpy library).
 
