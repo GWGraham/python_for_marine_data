@@ -22,6 +22,8 @@ Introductory course for on-ramping new students to fundamental programming skill
 	
 	1. Plot Data
 
+1. Visualisation & Mapping
+
 1. Further topics
 	
 	1. Git
