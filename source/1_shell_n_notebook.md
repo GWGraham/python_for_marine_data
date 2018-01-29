@@ -6,7 +6,7 @@ The terminal enables you to interact with your computer using a command line int
 
 
 
-If you don't want to launch terminals or jupyter notebooks as show below, on a Windows machine you can use the Anaconda Navigator to launch the apss jupyter, IPython, Spyder etc. that are refered to below.
+If you don't want to launch terminals or jupyter notebooks as show below, on a Windows machine you can use the Anaconda Navigator to launch the apps for jupyter, IPython, Spyder etc. that are refered to below.
 
 
 
@@ -95,9 +95,10 @@ You can quit the python session, and get dropped back to a system shell, by typi
 
 ## Launching the Juypter Notebook:
 
-Using your system taskbar shortcut or at the command line, launch the Juypter notebook
+The Juypter notebook is a nice format for sharing python code and text, for example the write up of an analysis you've done alongside the code to re-generate that analysis.
 
-:
+Using your system taskbar shortcut or at the command line, launch the Juypter notebook:
+
 ```bash
 
 juypter notebook
