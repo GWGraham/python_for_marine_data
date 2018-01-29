@@ -30,7 +30,7 @@ Mac and Linux have similar shells.
 
 
 
-From the shell you can interact with the filesystem. You might want to explore the [http://swcarpentry.github.io/shell-novice/](SWC Unix Shell lesson) for some ideas on how to use the shell.
+From the shell you can interact with the filesystem. You might want to explore the [SWC Unix Shell lesson](http://swcarpentry.github.io/shell-novice/) for some ideas on how to use the shell.
 
 
 
